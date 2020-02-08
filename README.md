@@ -1,4 +1,4 @@
-## My own Laravel boilerplate
+## My Own Laravel Boilerplate
 
 ### 1. Composer Install
 ```
