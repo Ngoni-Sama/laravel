@@ -1,4 +1,4 @@
-## Test project
+## My own Laravel boilerplate
 
 ### 1. Composer Install
 ```
@@ -32,3 +32,8 @@ npm run watch-poll
 ```
 npm run production
 ```
+
+### Features
+
+- Basic laravel authentication
+- Dashboard CRUD operation
